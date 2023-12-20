@@ -33,7 +33,7 @@ public class ExemplosNumerosInteiros {
 		long inteiroLongo = 9223372036854775807L;
 				
 		System.out.println(inteiroLongo);
-		System.out.println(x);
+		System.out.println("X=" + x +"  Y=" + y + " Z=" + z);
 
 	}
 
