@@ -22,8 +22,6 @@ public class StringEntradaDeDados {
 				
 				//saída
 				System.out.println(nome + " " + sobrenome);
-
-
 	}
 
 }
