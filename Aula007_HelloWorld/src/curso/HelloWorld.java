@@ -1,4 +1,3 @@
-package curso;
 
 public class HelloWorld 
 {
