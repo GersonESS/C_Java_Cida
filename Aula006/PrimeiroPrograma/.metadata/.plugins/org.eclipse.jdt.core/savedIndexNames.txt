@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Repo2024\C_Java_Cida\Aula006\PrimeiroPrograma\.metadata\.plugins\org.eclipse.jdt.core
